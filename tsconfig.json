@@ -1,0 +1,9 @@
+{
+	"extends": "../tsconfig.json",
+	"compilerOptions": {
+		"rootDir": ".",
+		"outDir": "../dist/rx-ws"
+	},
+	"files": ["index.ts"],
+	"include": ["./**/*.ts"]
+}

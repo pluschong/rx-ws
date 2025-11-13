@@ -1,0 +1,21 @@
+{
+	"name": "@pluschong/rx-ws",
+	"version": "0.0.0",
+	"description": "基于rxjs封装的websocket库",
+	"main": "index.js",
+	"types": "index.d.ts",
+	"author": "pluschong",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/pluschong/rx-ws.git"
+	},
+	"bugs": {
+		"url": "https://github.com/pluschong/rx-ws/issues"
+	},
+	"homepage": "https://github.com/pluschong/rx-ws#readme",
+	"publishConfig": {
+		"registry": "https://registry.npmjs.org/",
+		"access": "public"
+	}
+}
