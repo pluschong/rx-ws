@@ -4,6 +4,14 @@
   "description": "基于rxjs封装的websocket库",
   "main": "index.js",
   "types": "index.d.ts",
+  "keywords": [
+    "websocket",
+    "rxjs",
+    "observable",
+    "reactive",
+    "ws",
+    "real-time"
+  ],
   "author": "pluschong",
   "license": "MIT",
   "repository": {
